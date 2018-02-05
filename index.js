@@ -17,4 +17,4 @@ happyHolidayTo("Birthday", "Vincent");
 function holidayCountdown(days, holiday) {
   return (`It\'s ${days} days until ${holiday}!}`);
 }
-holidayCountdown("365", "Christmas");
+holidayCountdown("20", "Mother\'s");
